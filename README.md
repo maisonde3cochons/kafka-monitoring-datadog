@@ -240,6 +240,10 @@ JMXFetch
       status : OK
 ```
 
+![image](https://user-images.githubusercontent.com/30817824/172836583-85349fc0-8629-4ff1-8a8e-49b4541ac12a.png)
+
+<br>
+
 ##### [ERROR 발생 시] /etc/datadog-agent/conf.d/kafka.d/conf.yaml 파일의 host가 VM Instance(producer & consumer)의 Name과 일치하는지 확인
 
 ![image](https://user-images.githubusercontent.com/30817824/172836073-c0ea9610-29ae-4a24-b2f0-b8bb110d0027.png)
