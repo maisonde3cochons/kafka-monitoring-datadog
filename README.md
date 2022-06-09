@@ -251,6 +251,15 @@ JMXFetch
 
 <br>
 
+#### 3) Datadog Dashboard에서 Kafka Metrics 확인
+
+![image](https://user-images.githubusercontent.com/30817824/172836756-23ab3d33-64c7-4898-abfa-737444febb10.png)
+
+<br>
+
+![image](https://user-images.githubusercontent.com/30817824/172836980-73302037-9873-4629-8e9f-d57316cbabcd.png)
+
+
 -------------------------------------
 
 ##### [references]
