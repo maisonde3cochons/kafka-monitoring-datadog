@@ -259,6 +259,11 @@ JMXFetch
 
 ![image](https://user-images.githubusercontent.com/30817824/172836980-73302037-9873-4629-8e9f-d57316cbabcd.png)
 
+<br>
+
+> #### Metrics 메뉴에서 kafka.consumer.bytes_in과 kafka.producer.bytes_out 을 통해 Consumer가 데이터를 잘 가져오고 있는지 확인 가능
+
+![image](https://user-images.githubusercontent.com/30817824/172837761-b2e27417-4900-4ab8-8e18-96eb2af16a7c.png)
 
 -------------------------------------
 
